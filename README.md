@@ -1,5 +1,9 @@
 ![Gatsby Logo](https://github.com/vercel/vercel/blob/master/packages/frameworks/logos/gatsby.svg)
 
+# LICENSE
+
+GPL VERSION 3. FOR DETAILS, SEE THE FILE `LICENSE` AT THE ROOT FOLDER OF THIS REPOSITORY.
+
 # Gatsby Example
 
 This directory is a brief example of a [Gatsby](https://www.gatsbyjs.org/) app with [Serverless Functions](https://vercel.com/docs/v2/serverless-functions/introduction) that can be deployed with Vercel and zero configuration.
