@@ -15,10 +15,19 @@ function Index() {
   return (
     <main>
       <Helmet>
-        <title>Gatsby + Node.js (TypeScript) API</title>
+        <title>FREE WORLDS IT DEPT :: GPL VERSION 3 :: FINANCES_HYDRA_CORE SERVER*LIBRARY PROJECT :: SMART AI AND NON-AI FINANCIAL CHAT ASSISTANTS AT MULTIPLE NETWORKS :: WE AIM FOR ROCK SOLID OPENSOURCE SOFTWARE CODE TO GATHER POSITIVE FEEDBACKS FROM CORE USER CUSTOMERS AS MUCH AS POSSIBLE IN THESE BEST OF THE WORLDS. PLEASE DO COME GET SOME GREATNESS!</title>
       </Helmet>
-      <h1>Gatsby + Node.js (TypeScript) API</h1>
-      <h2>
+      <h1>FREE WORLDS IT DEPT :: GPL VERSION 3 :: FINANCES_HYDRA_CORE SERVER*LIBRARY PROJECT :: SMART AI AND NON-AI FINANCIAL CHAT ASSISTANTS AT MULTIPLE NETWORKS :: WE AIM FOR ROCK SOLID OPENSOURCE SOFTWARE CODE TO GATHER POSITIVE FEEDBACKS FROM CORE USER CUSTOMERS AS MUCH AS POSSIBLE IN THESE BEST OF THE WORLDS. PLEASE DO COME GET SOME GREATNESS!</h1>
+      <h2>GPLV3 Source Code for FINANCES_HYDRA_CORE: <a
+          href="https://github.com/FREEWORLDSITDEPT/GPLV3_FINANCES_HYDRA_CORE"
+          target="_blank"
+          rel="noreferrer"
+          rel="noopener"
+        >https://github.com/FREEWORLDSITDEPT/GPLV3_FINANCES_HYDRA_CORE</a
+      ></h2>
+      <h2>Project Status: Inception; Initial Development.</h2>
+      <h2>Project Inception Start Date, with Nanosecond precision: +2021-05-28 14:07:40 UTC 601187247</h2>
+      <h3>
         Deployed with{' '}
         <a
           href="https://vercel.com/docs"
@@ -28,7 +37,7 @@ function Index() {
           Vercel
         </a>
         !
-      </h2>
+      </h3>
       <p>
         <a
           href="https://github.com/vercel/vercel/tree/main/examples/gatsby"
