@@ -6,7 +6,7 @@ GPL VERSION 3. FOR DETAILS, SEE THE FILE `LICENSE` AT THE ROOT FOLDER OF THIS RE
 
 # Gatsby Example
 
-This directory is a brief example of a [Gatsby](https://www.gatsbyjs.org/) app with [Serverless Functions](https://vercel.com/docs/v2/serverless-functions/introduction) that can be deployed with Vercel and zero configuration.
+This directory is a custom GPLv3 modification of a brief example of a [Gatsby](https://www.gatsbyjs.org/) app with [Serverless Functions](https://vercel.com/docs/v2/serverless-functions/introduction) that can be deployed with Vercel and zero configuration.
 
 ## Deploy Your Own
 
